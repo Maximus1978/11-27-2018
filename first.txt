@@ -1,5 +1,3 @@
 First string
-
-Second string
-01
+Second string 01
 Third string
